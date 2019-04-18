@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  LinkedRead.cpp
+c:\visual studio\자료구조\linkedread\linkedread\linkedread.cpp(22): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  LinkedRead.vcxproj -> C:\Visual Studio\자료구조\LinkedRead\Debug\LinkedRead.exe
